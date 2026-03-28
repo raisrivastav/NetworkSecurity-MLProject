@@ -6,4 +6,5 @@ certifi
 logging
 pymongo[srv]==3.12
 scikit-learn
+PyYAML
 ##-e .
